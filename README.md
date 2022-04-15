@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+referring to [doc](https://nextjs.org/docs/)  
+[now](https://nextjs.org/docs/basic-features/pages#:~:text=Scenario%202%3A%20Your%20page%20paths%20depend%20on%20external%20data)
 
 ## Getting Started
 
@@ -32,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## memo
+### Pre-rendering
+- Static Generation (Recommended): The HTML is generated at build time and will be reused on each request.
+- Server-side Rendering: The HTML is generated on each request.
+
